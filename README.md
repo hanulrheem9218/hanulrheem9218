@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/rheemhanul?theme=unicorn&font=Noto%20Sans%20Sharada)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rheemhanul?theme=light&font=Noto%20Sans)
 <!--
 **hanulrheem9218/hanulrheem9218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
