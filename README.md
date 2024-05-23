@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rheemhanul?theme=light&font=Noto%20Sans)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanulrheem9218&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanulrheem9218)
 <!--
 **hanulrheem9218/hanulrheem9218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
